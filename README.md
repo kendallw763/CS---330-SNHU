@@ -31,5 +31,5 @@ Computer science can help me acheive my goals by giving me the knowledge and dex
 10. How do computational graphics and visualizations give you new knowledge and skills that can be applied in your future educational pathway?
 When it comes to future education. I may use this if I wanted to persue an education in computer graphics. However, I do not really see myself chasing more education within this realm. I am more accustomed to building mobile, and desktop application. Perhaps after obtaining my degree, I may learn how to build technology for air and space or medical companies. This requires wone to have knowledge to allowing code to communicate with exterior hardware. Such as software written for medical technology. There may need to be a machine of some sort to carry out the functions the code was intended to produce.
 
-How do computational graphics and visualizations give you new knowledge and skills that can be applied in your future professional pathway?
+11. How do computational graphics and visualizations give you new knowledge and skills that can be applied in your future professional pathway?
 I may use this course for the purpose of implementing CPU graphics for a mobile application or website. It will feature some sort of rotating shape or figure that represents perhaps a company logo or that is in relation to what the application offers.
